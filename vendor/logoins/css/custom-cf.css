@@ -1,0 +1,19 @@
+/* {
+	font-size: 12px;
+}*/
+.dark-theme .conversational-form cf-chat-response text p, .dark-theme .conversational-form cf-input input, .dark-theme .conversational-form cf-input textarea {
+	font-size: 12px;
+	font-weight: lighter;
+	/*padding: 6px 12px;*/
+}
+#conversational-form{
+	/*border: 1px solid #eee;
+	border-radius: 5px;*/
+}
+.conversational-form .conversational-form-inner{
+	padding: unset;
+}
+cf-chat {
+	margin: auto;
+}
+
